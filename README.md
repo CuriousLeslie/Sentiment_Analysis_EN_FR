@@ -50,3 +50,20 @@ The project works with customer reviews from:
 Shein (English and French, scraped from Trustpilot)
 Amazon (English)
 Yelp (English)
+
+6.Challenges Faced
+*Learning from scratch without a technical background
+
+*Removing NaNs that silently survived merge or cleaning steps
+
+*Understanding why TF-IDF discarded frequent words
+
+*Managing memory with large CSV files (Yelp)
+
+*Errors like KeyError, AttributeError, ValueError and how I debugged them
+
+*Separating cleaning and EDA for clarity
+
+*Accepting imperfect code and publishing anyway.
+
+
